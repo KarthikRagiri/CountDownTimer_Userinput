@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro&display=swap');
+
+* {
+    font-family: 'Be Vietnam Pro', sans-serif;
+    text-align: center;
+}
+
+.timer-div {
+    display: flex;
+
+}
+
+.timer-div div{
+    padding: 20px;
+    margin: 20px;
+    margin: 20px auto;
+}
+
+.timer-div div p {
+    font-size: 20px;
+}
+
+.timer-div div span {
+    font-size: 18px;
+}
